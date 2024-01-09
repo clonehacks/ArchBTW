@@ -1,6 +1,7 @@
 # ArchBTW (Arch Linux Assistant script)
 
 ![archbtw](https://github.com/clonehacks/ArchBTW/assets/155112723/d7cb1e76-07e2-4449-b492-7627c556df2d)
+![archbtw](https://github.com/clonehacks/ArchBTW/assets/155112723/19d518bc-bad9-439a-94e0-f0c9373c8870)
 
 
 
